@@ -1,0 +1,7 @@
+INFO: you can set chance of drop in this file from 0 range to 100 range
+InventoryDropMenuName: Drop
+Coal: 100
+Iron: 50
+Gold: 30
+Diamond: 10
+Emerald: 5

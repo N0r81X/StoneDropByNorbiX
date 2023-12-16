@@ -1,0 +1,10 @@
+name: DropByNorbiX
+version: '${project.version}'
+main: com.n0r81x.dropbynorbix.Main
+api-version: '1.20'
+load: STARTUP
+authors: [N0r81X, norbix112]
+description: this plugin allows you customize your drop from stone
+commands:
+  drop:
+    description: it will open drop menu
